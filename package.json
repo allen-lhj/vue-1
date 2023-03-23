@@ -1,0 +1,19 @@
+{
+  "name": "vue-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.35.3",
+    "eslint": "^8.35.0",
+    "typescript": "^4.9.5"
+  }
+}
